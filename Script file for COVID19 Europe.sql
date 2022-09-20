@@ -1,3 +1,5 @@
+-- Exploring COVID-19 deaths and infection counts of countries in Europe
+
 -- Create table for csv file
 CREATE TABLE COVID_19Deaths(
 Date_Reported text,
