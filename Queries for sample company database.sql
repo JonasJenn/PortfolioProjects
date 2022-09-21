@@ -1,3 +1,9 @@
+-- Worked on MySQL Workbench
+-- First I created a database for my sample company and named it "Sample_Company"
+-- This company's database contains info on employees, branches, clients and suppliers.
+-- I populated the database with relevant tables consisting of important company information using the queries below.
+
+
 CREATE TABLE employee (
   emp_id INT PRIMARY KEY,
   first_name VARCHAR(40),
